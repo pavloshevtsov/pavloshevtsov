@@ -1,4 +1,11 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D1%88%D0%B5%D0%B2%D1%86%D0%BE%D0%B2-aa0922127/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/paulshevtsov">
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+
 
 <!--
 **pavloshevtsov/pavloshevtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
